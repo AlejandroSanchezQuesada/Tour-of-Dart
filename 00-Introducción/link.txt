@@ -1,0 +1,8 @@
+https://dart.dev/get-dart
+
+https://scoop.sh/#/
+
+Yo lo he instalado a través de scoop
+
+scoop bucket add main
+scoop install main/dart
